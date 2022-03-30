@@ -4,7 +4,7 @@ title: Readings
 uid: 487ec3b5-f87c-c92a-a654-177ef97d7001
 ---
 
-The table below provides the reading assignments for the course. The required readings are taken from the textbook _Electromagnetics and Applications_ by D. H. Staelin. These readings are listed without an abbreviation in the table. The related reading sections for video demonstrations during the course are abbreviated as H/M. The entire contents of H/M can be found in Supplemental Resources > [Electromagnetic Fields and Energy](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008).
+The table below provides the reading assignments for the course. The required readings are taken from the textbook _Electromagnetics and Applications_ by D. H. Staelin. These readings are listed without an abbreviation in the table. The related reading sections for video demonstrations during the course are abbreviated as H/M. The entire contents of H/M can be found in Supplemental Resources > [Electromagnetic Fields and Energy](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).
 
 Staelin, David H. "Electromagnetics and Applications." (Course notes, Massachusetts Institute of Technology, n.d.)
 

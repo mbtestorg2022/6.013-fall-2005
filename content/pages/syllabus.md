@@ -23,7 +23,7 @@ Texts
 
 Staelin, David H. "Electromagnetics and Applications." (Course notes, Massachusetts Institute of Technology, n.d.) Earlier versions should not be used.
 
-Haus, Hermann A., and James R. Melcher. _Electromagnetic Fields and Energy_. Englewood Cliffs, NJ: Prentice-Hall, 1989. ISBN: 9780132490207. For figures and demos (out of print but available as a free [online textbook](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008).)
+Haus, Hermann A., and James R. Melcher. _Electromagnetic Fields and Energy_. Englewood Cliffs, NJ: Prentice-Hall, 1989. ISBN: 9780132490207. For figures and demos (out of print but available as a free [online textbook](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).)
 
 Quizzes
 -------
